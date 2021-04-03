@@ -1,2 +1,2 @@
 # opencart-protect-folders-and-files-names
-Protege os nomes de pastas e arquivos de caracteres especiais
+Protects the names of folders and special character files
